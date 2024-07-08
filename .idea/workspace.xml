@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="faaba2c2-2f0a-4232-aa32-3befac6816a0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2OQLUBX66oYr16KNKX6pfYhdEYu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/javie/IdeaProjects/Conecta4_mejora_Post_IA",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.folding",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="plot4.Main" />
+      <module name="plot4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faaba2c2-2f0a-4232-aa32-3befac6816a0" name="Changes" comment="" />
+      <created>1681487871728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681487871728</updated>
+      <workItem from="1681487873059" duration="67000" />
+      <workItem from="1681488591950" duration="1634000" />
+      <workItem from="1681641912269" duration="201000" />
+      <workItem from="1681642126897" duration="4768000" />
+      <workItem from="1681751868478" duration="11142000" />
+      <workItem from="1681816158207" duration="6492000" />
+      <workItem from="1681830656754" duration="13193000" />
+      <workItem from="1681914372349" duration="6565000" />
+      <workItem from="1681921975286" duration="8886000" />
+      <workItem from="1682092190831" duration="2136000" />
+      <workItem from="1682238843525" duration="451000" />
+      <workItem from="1682333193732" duration="5550000" />
+      <workItem from="1682697703240" duration="622000" />
+      <workItem from="1682698347388" duration="4392000" />
+      <workItem from="1683302242100" duration="1258000" />
+      <workItem from="1683303584557" duration="3681000" />
+      <workItem from="1683736969568" duration="481000" />
+      <workItem from="1683741770213" duration="208000" />
+      <workItem from="1683801657343" duration="603000" />
+      <workItem from="1683906536357" duration="2709000" />
+      <workItem from="1683909943918" duration="1288000" />
+      <workItem from="1684057754021" duration="180000" />
+      <workItem from="1684253827613" duration="14885000" />
+      <workItem from="1684340878038" duration="454000" />
+      <workItem from="1684341420988" duration="26000" />
+      <workItem from="1684413903560" duration="27968000" />
+      <workItem from="1684489154508" duration="18478000" />
+      <workItem from="1684512332528" duration="1476000" />
+      <workItem from="1684666532965" duration="65000" />
+      <workItem from="1685028327625" duration="1523000" />
+      <workItem from="1685725673818" duration="2007000" />
+      <workItem from="1687881568619" duration="497000" />
+      <workItem from="1687882147803" duration="1486000" />
+      <workItem from="1695035968781" duration="420000" />
+      <workItem from="1720446809758" duration="249000" />
+      <workItem from="1720447420107" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="21" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/plot4/MiniMaxRestrainedPlayer.java</url>
+          <line>714</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="plot4.MiniMaxRestrainedPlayer$Arbol_N_Ario$Nodo" memberName="profundidad" />
+        <PinnedItemInfo parentTag="plot4.MiniMaxPlayer$Arbol_N_Ario$Nodo" memberName="_estado" />
+        <PinnedItemInfo parentTag="plot4.MiniMaxPlayer$Arbol_N_Ario" memberName="_raiz" />
+        <PinnedItemInfo parentTag="plot4.MiniMaxRestrainedPlayer" memberName="turno" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
